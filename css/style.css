@@ -1261,6 +1261,10 @@ footer {
     .navbar:hover .logo-text {
         left: 0px;
     }
+    
+    #contact .imgBx img {
+    display: none;
+}
 
 
 }
